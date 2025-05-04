@@ -34,8 +34,10 @@ This repository contains early-stage technical documentation, architecture flows
 
 ### Key Repos & Tags
 
-- [FIREFLY Protocol](https://github.com/yourprofile/future-firefly-link)
-- [ChaosTech Systems Roadmap](https://github.com/yourprofile/future-roadmap-link)
+- - ### Key Repos & Tags
+
+- [FIREFLY Protocol](https://github.com/chaostech-daivon/FIREFLY-Protocol)
+- [ChaosTech Systems Roadmap](https://github.com/chaostech-daivon/ChaosTech-Roadmap)
 
 ---
 
